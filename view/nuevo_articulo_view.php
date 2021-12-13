@@ -1,7 +1,7 @@
 <main role="main">
 <div class="container">
       <h1>FORMULARIO PARA NUEVA ENTRADA</h1>
-      <p class="lead text-muted">Esta es la plantilla que usamos para crear una nueva entrada.</p>
+      <p class="lead text-muted">Esta es la plantilla que vamos a utilizar para crear una nueva entrada.</p>
       <p>
       </div>  
   <div class="album py-5 bg-light">
